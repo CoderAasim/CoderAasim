@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @CoderAasim
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Science
+- 📫 Reach me through my linkedin profile https://www.linkedin.com/in/aasim-gandhi-9317711a4/
